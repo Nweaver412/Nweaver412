@@ -3,5 +3,5 @@
 </div>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 150vh; object-fit: cover; background-size: cover; width: 200vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/nweaver412/nweaver412/main/Untitled(2).jpg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 150vh; object-fit: cover; background-size: cover; width: 200vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/nweaver412/nweaver412/main/mini.jpeg');]{x0000}$}
 ```
